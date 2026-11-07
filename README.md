@@ -191,3 +191,6 @@ This repository serves as the official landing page for Spiceworks IT Help Desk.
 - 💬 **[Community](https://softcosmo.com/about-us/)**
 ---
 **Get the most recent version of Spiceworks IT Help Desk today!**
+
+---
+**Last updated:** 2026-11-07 06:45:24 UTC
