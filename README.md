@@ -193,4 +193,4 @@ This repository serves as the official landing page for Spiceworks IT Help Desk.
 **Get the most recent version of Spiceworks IT Help Desk today!**
 
 ---
-**Last updated:** 2026-11-07 22:28:12 UTC
+**Last updated:** 2026-11-08 01:58:50 UTC
